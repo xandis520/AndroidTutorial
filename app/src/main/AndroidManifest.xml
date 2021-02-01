@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidTutorial">
-        <activity android:name=".foodrecipes.RecipeListActivity"></activity>
+        <activity android:name=".FragmentActivity"></activity>
+        <activity android:name=".foodrecipes.RecipeListActivity" />
         <activity android:name=".RecyclerActivity" />
         <activity android:name=".CalculatorActivity" />
         <activity android:name=".CalendarActivity" />
